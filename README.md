@@ -9,7 +9,8 @@
 >La solución ofrecida permite acceder a la información contenida en dicho archivo plano y extraer los datos relacionados con la ubicación (coordenadas) para emitirlos finalmente a través de una polilínea codificada para los fines que se requieran
 
 ## ¿Cómo lo hace?
->1.  La solución recibe la ruta donde se encuentra alojado el archivo plano
+>
+1.  La solución recibe la ruta donde se encuentra alojado el archivo plano
 2.  Inicia la lectura del archivo
 3. Busca coincidencias de un patrón de referencia en el texto
 4. Almacena las coordenadas encontradas (sin repetirlas)
@@ -21,7 +22,8 @@
 
 > El proceso de ejecución es bastante sencillo, en la ruta donde se encuentra este .MD, se encuentra también un ejecutable llamado solución que se puede ejecutar mediante la consola de comandos accediendo  a el desde dicha ruta,
 
->1. Abrir la consola de comando 
+>
+1. Abrir la consola de comando 
 2. Acceder a la ruta donde se encuentra el ejecutable
 3. Lanzar el ejecutable (escribiendo su nombre simplemente)
 4. una vez iniciada la ejecución, la solución pedirá un archivo plano para evaluar
